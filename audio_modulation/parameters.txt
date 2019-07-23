@@ -1,0 +1,9 @@
+Fs = 512
+T = 100
+freq = 64
+bits = 16
+amp = -10
+Fname = tone
+PeriodsToPlot = 2
+Mute = 1
+audioFile = audio.wav
